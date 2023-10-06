@@ -14,7 +14,11 @@ sites:
     url: https://mtgsaga.wicloz.rocks/
   - name: MusicDL
     url: https://musicdl.wicloz.rocks/
-    
+  - name: LMS
+    url: https://lms.wicloz.rocks/
+  - name: Invoice Ninja
+    url: https://invoices.wicloz.rocks/
+
 status-website:
   cname: uptime.wicloz.rocks
   name: Upptime
