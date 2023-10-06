@@ -18,6 +18,10 @@ sites:
     url: https://lms.wicloz.rocks/
   - name: Invoice Ninja
     url: https://invoices.wicloz.rocks/
+  - name: Rocket.Chat
+    url: https://chat.wicloz.rocks/
+  - name: Transmission Web
+    url: https://torrents.wicloz.rocks/
 
 status-website:
   cname: uptime.wicloz.rocks
