@@ -40,18 +40,20 @@
     "url": "https://cloud.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wicloz.rocks.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 636,
     "timeDay": 636,
     "timeWeek": 636,
     "timeMonth": 636,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-07": 0
+    }
   },
   {
     "name": "RoundCube",
@@ -106,7 +108,7 @@
     "timeMonth": 488,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-10-07": 23,
+      "2023-10-07": 202,
       "2023-10-06": 349
     }
   },
@@ -115,18 +117,20 @@
     "url": "https://lms.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/lms.wicloz.rocks.ico",
     "slug": "lms",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 463,
     "timeDay": 463,
     "timeWeek": 463,
     "timeMonth": 463,
     "timeYear": 463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-07": 0
+    }
   },
   {
     "name": "Invoice Ninja",
@@ -170,18 +174,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/torrents.wicloz.rocks.ico",
     "slug": "transmission-web",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 530,
     "timeDay": 530,
     "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-10-07": 23,
+      "2023-10-07": 202,
       "2023-10-06": 336
     }
   }
