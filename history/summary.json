@@ -22,18 +22,20 @@
     "url": "https://searx.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.wicloz.rocks.ico",
     "slug": "sear-x",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 507,
-    "timeWeek": 507,
-    "timeMonth": 507,
-    "timeYear": 507,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
+    "dailyMinutesDown": {
+      "2023-10-07": 0
+    }
   },
   {
     "name": "Nextcloud",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wicloz.rocks.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "45.68%",
+    "uptimeDay": "45.68%",
+    "uptimeWeek": "45.68%",
+    "uptimeMonth": "45.68%",
+    "uptimeYear": "45.68%",
     "time": 636,
     "timeDay": 636,
     "timeWeek": 636,
     "timeMonth": 636,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2023-10-07": 0
+      "2023-10-07": 678
     }
   },
   {
@@ -108,7 +110,7 @@
     "timeMonth": 488,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2023-10-07": 202,
+      "2023-10-07": 880,
       "2023-10-06": 349
     }
   },
@@ -118,18 +120,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lms.wicloz.rocks.ico",
     "slug": "lms",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "44.61%",
+    "uptimeDay": "44.61%",
+    "uptimeWeek": "44.61%",
+    "uptimeMonth": "44.61%",
+    "uptimeYear": "44.61%",
     "time": 463,
     "timeDay": 463,
     "timeWeek": 463,
     "timeMonth": 463,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2023-10-07": 0
+      "2023-10-07": 678
     }
   },
   {
@@ -185,7 +187,7 @@
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-10-07": 202,
+      "2023-10-07": 880,
       "2023-10-06": 336
     }
   }
