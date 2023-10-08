@@ -20,8 +20,19 @@ sites:
     url: https://invoices.wicloz.rocks/
   - name: Rocket.Chat
     url: https://chat.wicloz.rocks/
+
   - name: Transmission Web
     url: https://torrents.wicloz.rocks/
+    expectedStatusCodes:
+      - 401
+  - name: phpMyAdmin
+    url: https://myadmin.wicloz.rocks/
+    expectedStatusCodes:
+      - 401
+  - name: phpPgAdmin
+    url: https://pgadmin.wicloz.rocks/
+    expectedStatusCodes:
+      - 401
 
 status-website:
   cname: uptime.wicloz.rocks
