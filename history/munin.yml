@@ -1,7 +1,7 @@
 url: https://munin.wicloz.rocks/
-status: up
-code: 200
-responseTime: 568
-lastUpdated: 2023-10-08T02:19:10.562Z
+status: down
+code: 523
+responseTime: 1723
+lastUpdated: 2023-10-08T14:49:16.746Z
 startTime: 2023-10-06T17:16:26.661Z
 generator: Upptime <https://github.com/upptime/upptime>
