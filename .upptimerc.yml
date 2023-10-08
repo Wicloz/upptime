@@ -20,6 +20,8 @@ sites:
     url: https://invoices.wicloz.rocks/
   - name: Rocket.Chat
     url: https://chat.wicloz.rocks/
+  - name: Gitea
+    url: https://git.wicloz.rocks/
 
   - name: Transmission Web
     url: https://torrents.wicloz.rocks/
