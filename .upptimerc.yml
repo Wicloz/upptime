@@ -38,6 +38,32 @@ sites:
     expectedStatusCodes:
       - 401
 
+  - name: Rimworld Together
+    check: "tcp-ping"
+    url: rimrim.wicloz.rocks
+    port: 25555
+    
+  - name: SSH
+    check: "tcp-ping"
+    url: home.wicloz.rocks
+    port: 22
+  - name: SMTP
+    check: "tcp-ping"
+    url: peamail.net
+    port: 25
+  - name: SMTPS
+    check: "tcp-ping"
+    url: peamail.net
+    port: 465
+  - name: SubmissionS
+    check: "tcp-ping"
+    url: peamail.net
+    port: 587
+  - name: IMAPS
+    check: "tcp-ping"
+    url: peamail.net
+    port: 993
+
 status-website:
   cname: uptime.wicloz.rocks
   name: Upptime
