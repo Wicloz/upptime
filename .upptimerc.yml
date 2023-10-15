@@ -51,11 +51,11 @@ sites:
     check: "tcp-ping"
     url: peamail.net
     port: 25
-  - name: SubmissionS
+  - name: submissions
     check: "tcp-ping"
     url: peamail.net
     port: 465
-  - name: Submission
+  - name: submission
     check: "tcp-ping"
     url: peamail.net
     port: 587
