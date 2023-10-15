@@ -51,11 +51,11 @@ sites:
     check: "tcp-ping"
     url: peamail.net
     port: 25
-  - name: SMTPS
+  - name: SubmissionS
     check: "tcp-ping"
     url: peamail.net
     port: 465
-  - name: SubmissionS
+  - name: Submission
     check: "tcp-ping"
     url: peamail.net
     port: 587
