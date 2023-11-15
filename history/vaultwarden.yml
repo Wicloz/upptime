@@ -1,7 +1,7 @@
 url: https://vault.wicloz.rocks/
-status: down
-code: 502
-responseTime: 540
-lastUpdated: 2023-11-15T18:15:55.615Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2023-11-15T18:28:32.850Z
 startTime: 2023-10-09T01:18:01.525Z
 generator: Upptime <https://github.com/upptime/upptime>
