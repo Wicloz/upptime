@@ -38,11 +38,6 @@ sites:
     expectedStatusCodes:
       - 401
 
-  - name: Rimworld Together
-    check: "tcp-ping"
-    url: rimrim.wicloz.rocks
-    port: 25555
-    
   - name: SSH
     check: "tcp-ping"
     url: home.wicloz.rocks
