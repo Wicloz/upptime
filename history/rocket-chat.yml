@@ -1,7 +1,7 @@
 url: https://chat.wicloz.rocks/
-status: up
-code: 200
-responseTime: 563
-lastUpdated: 2024-01-26T23:16:53.483Z
+status: down
+code: 502
+responseTime: 355
+lastUpdated: 2024-01-27T05:25:15.925Z
 startTime: 2023-10-06T18:23:52.014Z
 generator: Upptime <https://github.com/upptime/upptime>
