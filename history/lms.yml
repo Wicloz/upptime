@@ -1,7 +1,7 @@
 url: https://lms.wicloz.rocks/
-status: up
-code: 200
-responseTime: 564
-lastUpdated: 2024-05-07T23:15:13.856Z
+status: down
+code: 502
+responseTime: 507
+lastUpdated: 2024-05-08T02:18:48.568Z
 startTime: 2023-10-06T18:16:03.086Z
 generator: Upptime <https://github.com/upptime/upptime>
