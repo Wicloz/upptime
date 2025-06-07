@@ -1,7 +1,7 @@
 url: https://cloud.wicloz.rocks/
-status: up
-code: 200
-responseTime: 776
-lastUpdated: 2025-06-06T23:22:38.188Z
+status: down
+code: 502
+responseTime: 406
+lastUpdated: 2025-06-07T04:56:04.790Z
 startTime: 2023-10-06T17:51:55.107Z
 generator: Upptime <https://github.com/upptime/upptime>
