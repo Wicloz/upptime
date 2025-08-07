@@ -1,7 +1,7 @@
 url: https://pgadmin.wicloz.rocks/
-status: up
-code: 401
-responseTime: 367
-lastUpdated: 2025-08-06T23:26:09.992Z
+status: down
+code: 523
+responseTime: 1398
+lastUpdated: 2025-08-07T19:29:51.418Z
 startTime: 2023-10-08T02:19:21.420Z
 generator: Upptime <https://github.com/upptime/upptime>
