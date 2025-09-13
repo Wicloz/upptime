@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.09%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.20%",
     "time": 691,
     "timeDay": 774,
     "timeWeek": 687,
@@ -366,10 +366,10 @@
     "url": "https://chat.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.wicloz.rocks.ico",
     "slug": "rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "99.17%",
     "time": 798,
@@ -378,6 +378,7 @@
     "timeMonth": 1247,
     "timeYear": 810,
     "dailyMinutesDown": {
+      "2025-09-13": 0,
       "2025-09-12": 26,
       "2025-09-10": 23,
       "2025-09-04": 23,
@@ -457,8 +458,7 @@
       "2025-03-02": 116,
       "2025-03-01": 149,
       "2025-02-25": 22,
-      "2025-02-18": 38,
-      "2025-02-17": 21
+      "2025-02-18": 38
     }
   },
   {
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.wicloz.rocks.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "94.40%",
+    "uptime": "94.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
