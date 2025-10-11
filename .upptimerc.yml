@@ -24,6 +24,8 @@ sites:
     url: https://git.wicloz.rocks/
   - name: Vaultwarden
     url: https://vault.wicloz.rocks/
+  - name: DayTick
+    url: https://todo.wicloz.rocks/
 
   - name: Transmission Web
     url: https://torrents.wicloz.rocks/
