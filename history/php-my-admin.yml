@@ -1,7 +1,7 @@
 url: https://myadmin.wicloz.rocks/
-status: down
-code: 500
-responseTime: 41
-lastUpdated: 2025-11-18T11:43:42.589Z
+status: up
+code: 401
+responseTime: 527
+lastUpdated: 2025-11-18T11:50:13.291Z
 startTime: 2023-10-08T02:19:20.663Z
 generator: Upptime <https://github.com/upptime/upptime>
