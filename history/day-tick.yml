@@ -1,7 +1,7 @@
 url: https://todo.wicloz.rocks/
-status: up
-code: 200
-responseTime: 457
-lastUpdated: 2025-11-25T23:06:54.399Z
+status: down
+code: 502
+responseTime: 816
+lastUpdated: 2025-11-26T06:00:06.989Z
 startTime: 2025-10-11T23:48:49.306Z
 generator: Upptime <https://github.com/upptime/upptime>
