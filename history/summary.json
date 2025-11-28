@@ -377,10 +377,10 @@
     "url": "https://chat.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.wicloz.rocks.ico",
     "slug": "rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.78%",
     "uptimeYear": "99.16%",
     "time": 829,
@@ -389,6 +389,7 @@
     "timeMonth": 1036,
     "timeYear": 841,
     "dailyMinutesDown": {
+      "2025-11-28": 1,
       "2025-11-18": 175,
       "2025-11-17": 555,
       "2025-11-14": 28,
@@ -461,8 +462,7 @@
       "2025-05-18": 51,
       "2025-05-17": 40,
       "2025-05-16": 56,
-      "2025-05-12": 47,
-      "2025-05-11": 23
+      "2025-05-12": 47
     }
   },
   {
@@ -570,11 +570,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/todo.wicloz.rocks.ico",
     "slug": "day-tick",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "98.20%",
+    "uptimeYear": "98.21%",
     "time": 765,
     "timeDay": 513,
     "timeWeek": 534,
