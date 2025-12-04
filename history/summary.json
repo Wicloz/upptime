@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.wicloz.rocks.ico",
     "slug": "sear-x",
     "status": "up",
-    "uptime": "98.00%",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
@@ -99,7 +99,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wicloz.rocks.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.40%",
@@ -377,10 +377,10 @@
     "url": "https://chat.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.wicloz.rocks.ico",
     "slug": "rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.92%",
     "uptimeYear": "99.16%",
     "time": 830,
@@ -389,6 +389,7 @@
     "timeMonth": 1032,
     "timeYear": 840,
     "dailyMinutesDown": {
+      "2025-12-04": 1,
       "2025-11-18": 175,
       "2025-11-17": 555,
       "2025-11-14": 28,
@@ -461,8 +462,7 @@
       "2025-05-18": 51,
       "2025-05-17": 40,
       "2025-05-16": 56,
-      "2025-05-12": 47,
-      "2025-05-11": 23
+      "2025-05-12": 47
     }
   },
   {
@@ -576,7 +576,7 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "98.41%",
     "time": 734,
-    "timeDay": 424,
+    "timeDay": 387,
     "timeWeek": 560,
     "timeMonth": 886,
     "timeYear": 734,
