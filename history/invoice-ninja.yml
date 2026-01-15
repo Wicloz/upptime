@@ -1,7 +1,7 @@
 url: https://invoices.wicloz.rocks/
-status: down
-code: 502
-responseTime: 426
-lastUpdated: 2026-01-14T23:07:30.971Z
+status: up
+code: 200
+responseTime: 1221
+lastUpdated: 2026-01-15T05:42:05.147Z
 startTime: 2023-10-06T18:16:03.989Z
 generator: Upptime <https://github.com/upptime/upptime>
