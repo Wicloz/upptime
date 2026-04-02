@@ -422,19 +422,19 @@
     "url": "https://chat.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.wicloz.rocks.ico",
     "slug": "rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "99.08%",
-    "time": 821,
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.09%",
+    "time": 822,
     "timeDay": 471,
     "timeWeek": 656,
     "timeMonth": 551,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2026-04-02": 31,
+      "2026-04-02": 32,
       "2026-04-01": 38,
       "2026-03-13": 74,
       "2026-03-12": 29,
@@ -508,8 +508,7 @@
       "2025-07-15": 23,
       "2025-07-11": 27,
       "2025-07-10": 27,
-      "2025-07-09": 50,
-      "2025-07-07": 27
+      "2025-07-09": 50
     }
   },
   {
