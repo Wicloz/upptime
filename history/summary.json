@@ -4,16 +4,16 @@
     "url": "https://munin.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/munin.wicloz.rocks.ico",
     "slug": "munin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "53.72%",
-    "uptimeWeek": "93.39%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "99.09%",
-    "time": 663,
-    "timeDay": 372,
-    "timeWeek": 1113,
-    "timeMonth": 758,
+    "uptimeDay": "53.46%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "99.08%",
+    "time": 664,
+    "timeDay": 464,
+    "timeWeek": 1043,
+    "timeMonth": 752,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2025-08-20": 236,
@@ -45,7 +45,7 @@
       "2026-07-19": 227,
       "2026-07-18": 251,
       "2026-07-26": 57,
-      "2026-08-17": 666
+      "2026-08-17": 670
     }
   },
   {
@@ -53,17 +53,17 @@
     "url": "https://searx.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.wicloz.rocks.ico",
     "slug": "sear-x",
-    "status": "down",
+    "status": "up",
     "uptime": "98.24%",
-    "uptimeDay": "54.04%",
-    "uptimeWeek": "93.43%",
-    "uptimeMonth": "97.41%",
+    "uptimeDay": "53.79%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "97.40%",
     "uptimeYear": "99.17%",
     "time": 628,
-    "timeDay": 355,
-    "timeWeek": 557,
-    "timeMonth": 621,
-    "timeYear": 616,
+    "timeDay": 593,
+    "timeWeek": 591,
+    "timeMonth": 627,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2025-08-20": 235,
       "2025-08-21": 57,
@@ -85,7 +85,7 @@
       "2026-07-01": 182,
       "2026-07-19": 227,
       "2026-07-18": 246,
-      "2026-08-17": 662
+      "2026-08-17": 665
     }
   },
   {
@@ -93,16 +93,16 @@
     "url": "https://cloud.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wicloz.rocks.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "54.37%",
-    "uptimeWeek": "93.48%",
-    "uptimeMonth": "97.43%",
+    "uptimeDay": "54.13%",
+    "uptimeWeek": "93.45%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "98.90%",
     "time": 924,
-    "timeDay": 753,
-    "timeWeek": 1338,
-    "timeMonth": 1201,
+    "timeDay": 873,
+    "timeWeek": 1295,
+    "timeMonth": 1195,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2025-08-20": 205,
@@ -137,7 +137,7 @@
       "2026-07-01": 177,
       "2026-07-19": 227,
       "2026-07-18": 241,
-      "2026-08-17": 657
+      "2026-08-17": 661
     }
   },
   {
@@ -145,14 +145,14 @@
     "url": "https://peamail.net/",
     "icon": "https://icons.duckduckgo.com/ip3/peamail.net.ico",
     "slug": "round-cube",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "54.69%",
-    "uptimeWeek": "93.53%",
-    "uptimeMonth": "97.45%",
+    "uptimeDay": "54.46%",
+    "uptimeWeek": "93.49%",
+    "uptimeMonth": "97.44%",
     "uptimeYear": "99.22%",
     "time": 478,
-    "timeDay": 322,
+    "timeDay": 384,
     "timeWeek": 445,
     "timeMonth": 467,
     "timeYear": 484,
@@ -173,7 +173,7 @@
       "2026-07-01": 172,
       "2026-07-19": 227,
       "2026-07-18": 236,
-      "2026-08-17": 652
+      "2026-08-17": 656
     }
   },
   {
@@ -181,16 +181,16 @@
     "url": "https://mtgsaga.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/mtgsaga.wicloz.rocks.ico",
     "slug": "mtg-saga",
-    "status": "down",
+    "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "55.34%",
-    "uptimeWeek": "93.62%",
+    "uptimeDay": "55.11%",
+    "uptimeWeek": "93.59%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "99.15%",
     "time": 710,
-    "timeDay": 550,
-    "timeWeek": 438,
-    "timeMonth": 1111,
+    "timeDay": 561,
+    "timeWeek": 454,
+    "timeMonth": 1094,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2025-08-20": 204,
@@ -215,7 +215,7 @@
       "2026-07-01": 163,
       "2026-07-19": 227,
       "2026-07-18": 227,
-      "2026-08-17": 643
+      "2026-08-17": 646
     }
   },
   {
@@ -223,16 +223,16 @@
     "url": "https://musicdl.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/musicdl.wicloz.rocks.ico",
     "slug": "music-dl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "55.98%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "55.76%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "99.17%",
     "time": 687,
-    "timeDay": 341,
-    "timeWeek": 436,
-    "timeMonth": 1099,
+    "timeDay": 384,
+    "timeWeek": 435,
+    "timeMonth": 1079,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2025-08-20": 203,
@@ -255,7 +255,7 @@
       "2026-07-01": 153,
       "2026-07-19": 228,
       "2026-07-18": 217,
-      "2026-08-17": 634
+      "2026-08-17": 637
     }
   },
   {
@@ -263,17 +263,17 @@
     "url": "https://lms.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/lms.wicloz.rocks.ico",
     "slug": "lms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "56.62%",
-    "uptimeWeek": "93.80%",
-    "uptimeMonth": "97.58%",
+    "uptimeDay": "56.41%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "99.16%",
-    "time": 711,
-    "timeDay": 352,
-    "timeWeek": 429,
-    "timeMonth": 1065,
-    "timeYear": 791,
+    "time": 710,
+    "timeDay": 386,
+    "timeWeek": 428,
+    "timeMonth": 1046,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2025-08-20": 202,
       "2025-08-21": 57,
@@ -298,7 +298,7 @@
       "2026-07-01": 144,
       "2026-07-19": 228,
       "2026-07-18": 208,
-      "2026-08-17": 625
+      "2026-08-17": 628
     }
   },
   {
@@ -306,17 +306,17 @@
     "url": "https://invoices.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/invoices.wicloz.rocks.ico",
     "slug": "invoice-ninja",
-    "status": "down",
+    "status": "up",
     "uptime": "95.87%",
-    "uptimeDay": "57.26%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "57.06%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "93.62%",
     "uptimeYear": "90.68%",
-    "time": 920,
-    "timeDay": 430,
-    "timeWeek": 525,
-    "timeMonth": 1742,
-    "timeYear": 1045,
+    "time": 921,
+    "timeDay": 531,
+    "timeWeek": 538,
+    "timeMonth": 1711,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-08-20": 201,
       "2025-08-21": 57,
@@ -376,7 +376,7 @@
       "2026-07-26": 276,
       "2026-07-25": 1440,
       "2026-07-24": 32,
-      "2026-08-17": 615
+      "2026-08-17": 618
     }
   },
   {
@@ -384,16 +384,16 @@
     "url": "https://chat.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.wicloz.rocks.ico",
     "slug": "rocket-chat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "57.90%",
-    "uptimeWeek": "93.99%",
+    "uptimeDay": "57.71%",
+    "uptimeWeek": "93.96%",
     "uptimeMonth": "97.64%",
     "uptimeYear": "98.26%",
     "time": 896,
-    "timeDay": 389,
-    "timeWeek": 473,
-    "timeMonth": 1685,
+    "timeDay": 437,
+    "timeWeek": 474,
+    "timeMonth": 1650,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2025-08-18": 33,
@@ -476,7 +476,7 @@
       "2026-07-01": 129,
       "2026-07-19": 228,
       "2026-07-18": 198,
-      "2026-08-17": 606
+      "2026-08-17": 609
     }
   },
   {
@@ -484,17 +484,17 @@
     "url": "https://git.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/git.wicloz.rocks.ico",
     "slug": "gitea",
-    "status": "down",
+    "status": "up",
     "uptime": "95.94%",
-    "uptimeDay": "58.13%",
-    "uptimeWeek": "94.02%",
-    "uptimeMonth": "97.58%",
+    "uptimeDay": "57.95%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "99.15%",
-    "time": 995,
-    "timeDay": 921,
-    "timeWeek": 1292,
-    "timeMonth": 1527,
-    "timeYear": 1064,
+    "time": 996,
+    "timeDay": 1146,
+    "timeWeek": 1302,
+    "timeMonth": 1523,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2025-08-20": 199,
       "2025-08-21": 58,
@@ -524,7 +524,7 @@
       "2026-07-18": 195,
       "2026-07-26": 4,
       "2026-07-25": 33,
-      "2026-08-17": 603
+      "2026-08-17": 605
     }
   },
   {
