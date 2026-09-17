@@ -4,16 +4,16 @@
     "url": "https://munin.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/munin.wicloz.rocks.ico",
     "slug": "munin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.12%",
     "time": 653,
     "timeDay": 590,
     "timeWeek": 638,
-    "timeMonth": 625,
+    "timeMonth": 627,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-10-05": 21,
@@ -44,7 +44,8 @@
       "2026-07-18": 251,
       "2026-07-26": 57,
       "2026-08-17": 670,
-      "2026-08-26": 63
+      "2026-08-26": 63,
+      "2026-09-17": 56
     }
   },
   {
@@ -52,16 +53,16 @@
     "url": "https://searx.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/searx.wicloz.rocks.ico",
     "slug": "sear-x",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.20%",
     "time": 630,
     "timeDay": 567,
     "timeWeek": 597,
-    "timeMonth": 617,
+    "timeMonth": 610,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2025-10-15": 27,
@@ -83,7 +84,8 @@
       "2026-07-19": 227,
       "2026-07-18": 246,
       "2026-08-17": 665,
-      "2026-08-26": 58
+      "2026-08-26": 58,
+      "2026-09-17": 51
     }
   },
   {
@@ -91,16 +93,16 @@
     "url": "https://cloud.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wicloz.rocks.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "98.94%",
-    "time": 935,
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "98.93%",
+    "time": 936,
     "timeDay": 1114,
     "timeWeek": 1062,
-    "timeMonth": 1120,
+    "timeMonth": 1124,
     "timeYear": 968,
     "dailyMinutesDown": {
       "2025-10-15": 27,
@@ -134,7 +136,8 @@
       "2026-07-19": 227,
       "2026-07-18": 241,
       "2026-08-17": 661,
-      "2026-08-26": 54
+      "2026-08-26": 54,
+      "2026-09-17": 47
     }
   },
   {
@@ -142,16 +145,16 @@
     "url": "https://peamail.net/",
     "icon": "https://icons.duckduckgo.com/ip3/peamail.net.ico",
     "slug": "round-cube",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.25%",
     "time": 480,
     "timeDay": 491,
     "timeWeek": 481,
-    "timeMonth": 463,
+    "timeMonth": 464,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2025-11-17": 121,
@@ -170,7 +173,8 @@
       "2026-07-19": 227,
       "2026-07-18": 236,
       "2026-08-17": 656,
-      "2026-08-26": 49
+      "2026-08-26": 49,
+      "2026-09-17": 42
     }
   },
   {
@@ -178,17 +182,17 @@
     "url": "https://mtgsaga.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/mtgsaga.wicloz.rocks.ico",
     "slug": "mtg-saga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.20%",
-    "time": 711,
-    "timeDay": 603,
-    "timeWeek": 543,
-    "timeMonth": 552,
-    "timeYear": 736,
+    "time": 744,
+    "timeDay": 10168,
+    "timeWeek": 2942,
+    "timeMonth": 1151,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2025-10-15": 27,
       "2025-11-14": 28,
@@ -210,7 +214,8 @@
       "2026-07-01": 163,
       "2026-07-19": 227,
       "2026-07-18": 227,
-      "2026-08-17": 646
+      "2026-08-17": 646,
+      "2026-09-17": 41
     }
   },
   {
@@ -218,17 +223,17 @@
     "url": "https://musicdl.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/musicdl.wicloz.rocks.ico",
     "slug": "music-dl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.22%",
-    "time": 690,
-    "timeDay": 610,
-    "timeWeek": 499,
-    "timeMonth": 535,
-    "timeYear": 712,
+    "time": 722,
+    "timeDay": 10044,
+    "timeWeek": 2872,
+    "timeMonth": 1130,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2025-11-17": 119,
       "2025-11-18": 192,
@@ -248,7 +253,8 @@
       "2026-07-01": 153,
       "2026-07-19": 228,
       "2026-07-18": 217,
-      "2026-08-17": 637
+      "2026-08-17": 637,
+      "2026-09-17": 39
     }
   },
   {
@@ -256,17 +262,17 @@
     "url": "https://lms.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/lms.wicloz.rocks.ico",
     "slug": "lms",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.57%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.21%",
-    "time": 711,
-    "timeDay": 571,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 745,
+    "time": 744,
+    "timeDay": 10103,
+    "timeWeek": 2896,
+    "timeMonth": 1106,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2025-10-15": 27,
       "2025-11-17": 118,
@@ -289,7 +295,8 @@
       "2026-07-01": 144,
       "2026-07-19": 228,
       "2026-07-18": 208,
-      "2026-08-17": 628
+      "2026-08-17": 628,
+      "2026-09-17": 38
     }
   },
   {
@@ -297,17 +304,17 @@
     "url": "https://invoices.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/invoices.wicloz.rocks.ico",
     "slug": "invoice-ninja",
-    "status": "up",
+    "status": "down",
     "uptime": "95.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "90.73%",
-    "time": 929,
-    "timeDay": 805,
-    "timeWeek": 747,
-    "timeMonth": 732,
-    "timeYear": 1005,
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "90.72%",
+    "time": 962,
+    "timeDay": 10079,
+    "timeWeek": 3073,
+    "timeMonth": 1318,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2025-10-15": 27,
       "2025-11-14": 28,
@@ -364,7 +371,8 @@
       "2026-07-26": 276,
       "2026-07-25": 1440,
       "2026-07-24": 32,
-      "2026-08-17": 618
+      "2026-08-17": 618,
+      "2026-09-17": 37
     }
   },
   {
@@ -372,17 +380,17 @@
     "url": "https://chat.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/chat.wicloz.rocks.ico",
     "slug": "rocket-chat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "98.38%",
-    "time": 903,
-    "timeDay": 644,
-    "timeWeek": 581,
-    "timeMonth": 588,
-    "timeYear": 881,
+    "time": 933,
+    "timeDay": 10139,
+    "timeWeek": 2963,
+    "timeMonth": 1186,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2025-09-22": 53,
       "2025-09-26": 21,
@@ -453,7 +461,8 @@
       "2026-07-01": 129,
       "2026-07-19": 228,
       "2026-07-18": 198,
-      "2026-08-17": 609
+      "2026-08-17": 609,
+      "2026-09-17": 36
     }
   },
   {
@@ -461,16 +470,16 @@
     "url": "https://git.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/git.wicloz.rocks.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "96.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "99.20%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.19%",
     "time": 1034,
     "timeDay": 1512,
     "timeWeek": 1645,
-    "timeMonth": 1505,
+    "timeMonth": 1510,
     "timeYear": 1116,
     "dailyMinutesDown": {
       "2025-11-17": 108,
@@ -499,7 +508,8 @@
       "2026-07-18": 195,
       "2026-07-26": 4,
       "2026-07-25": 33,
-      "2026-08-17": 605
+      "2026-08-17": 605,
+      "2026-09-17": 31
     }
   },
   {
@@ -507,16 +517,16 @@
     "url": "https://vault.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/vault.wicloz.rocks.ico",
     "slug": "vaultwarden",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.64%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.29%",
     "time": 524,
     "timeDay": 595,
     "timeWeek": 605,
-    "timeMonth": 796,
+    "timeMonth": 568,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-10-15": 27,
@@ -535,7 +545,8 @@
       "2026-07-01": 120,
       "2026-07-19": 228,
       "2026-07-18": 190,
-      "2026-08-17": 597
+      "2026-08-17": 597,
+      "2026-09-17": 26
     }
   },
   {
@@ -543,17 +554,17 @@
     "url": "https://todo.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/todo.wicloz.rocks.ico",
     "slug": "day-tick",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.99%",
-    "time": 845,
-    "timeDay": 573,
-    "timeWeek": 477,
-    "timeMonth": 1075,
-    "timeYear": 845,
+    "time": 890,
+    "timeDay": 10000,
+    "timeWeek": 2846,
+    "timeMonth": 1088,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-10-15": 912,
       "2025-11-12": 23,
@@ -578,7 +589,8 @@
       "2026-07-18": 189,
       "2026-08-11": 62,
       "2026-08-13": 89,
-      "2026-08-17": 596
+      "2026-08-17": 596,
+      "2026-09-17": 25
     }
   },
   {
@@ -586,17 +598,17 @@
     "url": "https://torrents.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/torrents.wicloz.rocks.ico",
     "slug": "transmission-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "99.21%",
-    "time": 864,
-    "timeDay": 556,
-    "timeWeek": 465,
-    "timeMonth": 1059,
-    "timeYear": 871,
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.20%",
+    "time": 903,
+    "timeDay": 10111,
+    "timeWeek": 2865,
+    "timeMonth": 1082,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2025-10-15": 27,
       "2025-11-17": 105,
@@ -615,7 +627,8 @@
       "2026-07-01": 117,
       "2026-07-19": 228,
       "2026-07-18": 187,
-      "2026-08-17": 595
+      "2026-08-17": 595,
+      "2026-09-17": 24
     }
   },
   {
@@ -623,17 +636,17 @@
     "url": "https://myadmin.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/myadmin.wicloz.rocks.ico",
     "slug": "php-my-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.25%",
-    "time": 844,
-    "timeDay": 802,
-    "timeWeek": 517,
-    "timeMonth": 1075,
-    "timeYear": 901,
+    "time": 877,
+    "timeDay": 10114,
+    "timeWeek": 2881,
+    "timeMonth": 1086,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2025-11-17": 104,
       "2025-11-18": 193,
@@ -655,7 +668,8 @@
       "2026-07-01": 116,
       "2026-07-19": 228,
       "2026-07-18": 186,
-      "2026-08-17": 594
+      "2026-08-17": 594,
+      "2026-09-17": 23
     }
   },
   {
@@ -663,17 +677,17 @@
     "url": "https://pgadmin.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/pgadmin.wicloz.rocks.ico",
     "slug": "php-pg-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.28%",
-    "time": 801,
-    "timeDay": 608,
-    "timeWeek": 482,
-    "timeMonth": 1062,
-    "timeYear": 899,
+    "time": 834,
+    "timeDay": 10248,
+    "timeWeek": 2908,
+    "timeMonth": 1093,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2025-11-17": 103,
       "2025-11-18": 175,
@@ -693,7 +707,8 @@
       "2026-07-18": 185,
       "2026-07-26": 4,
       "2026-07-25": 32,
-      "2026-08-17": 593
+      "2026-08-17": 593,
+      "2026-09-17": 22
     }
   },
   {
@@ -701,11 +716,11 @@
     "url": "home.wicloz.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
     "time": 116,
     "timeDay": 136,
@@ -727,7 +742,8 @@
       "2026-03-14": 25,
       "2026-03-19": 45,
       "2026-04-19": 56,
-      "2026-05-03": 73
+      "2026-05-03": 73,
+      "2026-09-17": 18
     }
   },
   {
@@ -735,11 +751,11 @@
     "url": "peamail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.91%",
     "time": 116,
     "timeDay": 137,
@@ -754,7 +770,8 @@
       "2026-03-08": 37,
       "2026-03-12": 30,
       "2026-03-13": 47,
-      "2026-03-18": 30
+      "2026-03-18": 30,
+      "2026-09-17": 13
     }
   },
   {
@@ -762,11 +779,11 @@
     "url": "peamail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "submissions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 116,
     "timeDay": 135,
@@ -778,7 +795,8 @@
       "2025-11-18": 113,
       "2025-11-25": 57,
       "2026-01-29": 43,
-      "2026-03-08": 37
+      "2026-03-08": 37,
+      "2026-09-17": 9
     }
   },
   {
@@ -786,11 +804,11 @@
     "url": "peamail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "submission",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 116,
     "timeDay": 138,
@@ -803,7 +821,8 @@
       "2025-11-18": 113,
       "2025-11-25": 57,
       "2026-01-29": 42,
-      "2026-03-08": 37
+      "2026-03-08": 37,
+      "2026-09-17": 5
     }
   },
   {
@@ -811,10 +830,10 @@
     "url": "peamail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imaps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 116,
@@ -828,7 +847,8 @@
       "2025-11-18": 113,
       "2025-11-25": 57,
       "2026-01-29": 41,
-      "2026-03-08": 37
+      "2026-03-08": 37,
+      "2026-09-17": 1
     }
   }
 ]
