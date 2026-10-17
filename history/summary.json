@@ -556,17 +556,17 @@
     "url": "https://todo.wicloz.rocks/",
     "icon": "https://icons.duckduckgo.com/ip3/todo.wicloz.rocks.ico",
     "slug": "day-tick",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "98.96%",
-    "time": 905,
-    "timeDay": 417,
-    "timeWeek": 548,
-    "timeMonth": 1661,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "81.92%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "98.92%",
+    "time": 904,
+    "timeDay": 443,
+    "timeWeek": 542,
+    "timeMonth": 1627,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2025-11-12": 23,
       "2025-11-17": 106,
@@ -593,7 +593,7 @@
       "2026-08-17": 596,
       "2026-09-18": 911,
       "2026-09-17": 505,
-      "2026-10-17": 1
+      "2026-10-17": 260
     }
   },
   {
