@@ -710,10 +710,10 @@
     "url": "peamail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "92.06%",
-    "uptimeWeek": "92.33%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "92.32%",
     "uptimeMonth": "93.54%",
     "uptimeYear": "99.16%",
     "time": 117,
@@ -737,7 +737,7 @@
       "2026-11-25": 262,
       "2026-11-27": 166,
       "2026-11-26": 231,
-      "2026-11-28": 114
+      "2026-11-28": 115
     }
   },
   {
